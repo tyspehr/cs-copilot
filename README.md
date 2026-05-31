@@ -232,6 +232,56 @@ streamlit run app.py
 * Churn prediction modeling
 
 ---
+## Screenshots
+
+### Executive Metrics Dashboard
+
+![Executive Metrics](Co-Pilot%20Screenshots/Demo%20-%20Executive%20Metrics%201.png)
+
+---
+
+### Risk Distribution Analysis
+
+![Risk Distribution](Co-Pilot%20Screenshots/Demo%20-%20Risk%20Distribution.png)
+
+---
+
+### Executive Briefing Agent
+
+![Executive Briefing Agent](Co-Pilot%20Screenshots/Demo%20-%20Executive%20Briefing%20Agent.png)
+
+---
+
+### Account-Level AI Copilot
+
+![Account AI Copilot](Co-Pilot%20Screenshots/Demo%20-%20Account%20level%20AI%20Copilot.png)
+
+---
+
+### AI Generated Account Brief
+
+![Generated AI Account Brief](Co-Pilot%20Screenshots/Demo%20-%20Generated%20AI%20Account%20Brief.png)
+
+---
+
+### Agent Activity Feed
+
+![Agent Activity Feed](Co-Pilot%20Screenshots/Demo%20-%20Agent%20Activity%20Feed.png)
+
+---
+
+### Connector Architecture Sidebar
+
+![Connector Status Sidebar](Co-Pilot%20Screenshots/Demo%20-%20Connector%20Status%20Sidebar.png)
+
+---
+
+### Navigation Sidebar
+
+![Sidebar 1](Co-Pilot%20Screenshots/Demo%20-%20Sidebar%201.png)
+
+![Sidebar 2](Co-Pilot%20Screenshots/Demo%20-%20Sidebar%202.png)
+---
 
 ## Why I Built This
 
