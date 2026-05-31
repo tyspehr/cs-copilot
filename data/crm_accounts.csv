@@ -1,0 +1,11 @@
+account_id,account_name,industry,arr,account_owner,renewal_date,crm_health_score
+ACC-1001,Northstar Health,Healthcare,385243,Tyler Spehr,2026-07-18,65
+ACC-1002,BrightPath Logistics,Logistics,131516,Morgan Patel,2026-08-14,43
+ACC-1003,Summit Retail Group,Retail,487314,Jamie Lee,2026-09-21,77
+ACC-1004,BlueRiver Manufacturing,Manufacturing,426393,Jamie Lee,2026-09-08,93
+ACC-1005,Pinnacle Finance,Finance,340049,Tyler Spehr,2027-01-26,44
+ACC-1006,MetroCare Clinics,Healthcare,50299,Morgan Patel,2026-11-20,92
+ACC-1007,Apex Hospitality,Hospitality,445976,Jamie Lee,2026-12-23,69
+ACC-1008,Crescent Foods,Food & Beverage,380879,Jamie Lee,2026-07-05,38
+ACC-1009,Ironwood Construction,Construction,100819,Alex Rivera,2026-12-05,75
+ACC-1010,Valley Medical Partners,Healthcare,149724,Alex Rivera,2026-11-04,47

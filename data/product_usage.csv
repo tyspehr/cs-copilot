@@ -1,0 +1,11 @@
+account_id,monthly_active_users,licensed_users,feature_adoption_score,login_change_pct
+ACC-1001,135,278,37,44
+ACC-1002,57,439,32,-5
+ACC-1003,191,264,54,39
+ACC-1004,212,519,38,-17
+ACC-1005,359,599,54,48
+ACC-1006,19,164,66,-11
+ACC-1007,214,432,76,16
+ACC-1008,473,82,62,-41
+ACC-1009,226,470,79,43
+ACC-1010,226,237,55,9

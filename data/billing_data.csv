@@ -1,0 +1,11 @@
+account_id,invoice_status,days_overdue,contract_value,potential_expansion_value
+ACC-1001,Current,60,385243,32790
+ACC-1002,Current,30,131516,79342
+ACC-1003,Current,30,487314,54862
+ACC-1004,Current,0,426393,78876
+ACC-1005,Current,0,340049,86939
+ACC-1006,Current,0,50299,73143
+ACC-1007,Overdue,0,445976,74986
+ACC-1008,Current,0,380879,137248
+ACC-1009,Current,60,100819,35799
+ACC-1010,Current,0,149724,126164
