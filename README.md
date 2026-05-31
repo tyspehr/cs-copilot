@@ -289,6 +289,9 @@ I built CS Copilot to explore how AI agents can support Customer Success and Rev
 
 Rather than building a generic chatbot, this project focuses on a real business workflow: aggregating customer data, identifying risk, surfacing expansion opportunities, recommending actions, and generating executive-ready summaries.
 
+Disclaimer: This project uses simulated data and was created as a personal learning project to explore AI-assisted Customer Success workflows. It is not affiliated with or endorsed by any employer, customer, or third-party organization.
+
+
 ---
 
 ## Author
